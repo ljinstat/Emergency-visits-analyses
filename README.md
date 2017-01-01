@@ -1,6 +1,6 @@
 # Emergency-visits-analyses
 
-It is a 5-year project to research emergency visits stream distribution geographically and temporally. Data are from emergencies at Île de France from 2014 to 2015.
+It is a 5-year project to research emergency visits stream distribution geographically and temporally. Data are from emergencies at Île-de-France from 2014 to 2015.
 
 Firstly, data cleaning is done in order to better understand all meanings of variables (62 variables). 
 
