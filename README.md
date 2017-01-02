@@ -8,4 +8,4 @@ Next, statistics analyses present emergency visits stream's characteristics to t
 
 Finally, three models are proposed to forecast emergency visits: a benchmark (mean visits per 6 hours), a linear regression and Sarima model.
 
-* This project is confidential, so no graphic or data is presented in this repository.
+* This project is confidential, so no graph or data is presented in this repository.
